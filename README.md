@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+January 04, 2017
 
 ### Student Name:  
-(First and Last Name)
+Anna Rissinger
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To make an expense calulator using basic JavaScript commands.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+http://alf08f.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. What a client-side scripting language is and what how it works.
+2. Basic commands used in building and stating a JavaScript page.
+3. How to make comments and basic naming rules used in JavaScript.
